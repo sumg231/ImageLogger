@@ -89,6 +89,8 @@ GG u Baimed kid with imagelogger😈
 ```
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Z2i5SrA" data-context="false" ><a href="//imgur.com/a/Z2i5SrA"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+
 
 ### GUI
 ![discord](https://i.imgur.com/a/Z2i5SrA.png) 
