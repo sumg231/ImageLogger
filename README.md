@@ -1,9 +1,9 @@
 <h1 align="center">
-  Luna Token Grabber😈
+ 😈bearimagelogger-free😈
 </h1>
 
 <h2 align="center">
-  Luna Token Grabber is a tool that steals discord tokens and other information and sends it to you webhook!
+ bearimagelogger-free is a tool that allows you to steal a cookie with a photo and sends it to you webhook!
 </h2>
 
 <div align="center">
@@ -65,30 +65,27 @@ python v3.10.1 or higher
 ```
 Once you've downloaded the files extract the folder so it's no longer a .zip file.
 ```
-### 2. Open The build.bat File:
+### 2. Open The bearimagelogger File:
 ```
-You dont need to install any modules opening this will install them for you. Then you can open the build.bat which will 
-open a terminal with the luna logo. Don't worry although this looks quite menacing its just aesthetic and is normal.
+You dont need to install any modules opening this will install them for you. Then you can open the bearimagelogger which will 
+open a terminal with the bearimagelogger logo. Don't worry although this looks quite menacing its just aesthetic and is normal.
 ```
 ### 3. Create A Webhook:
 ```
 This webhook will be sent any victims you log so don't delete it once it's made. Once you've created one paste it 
 into the terminal when prompted.
 ```
-### 4. Conifgurable Options:
+### 4. Making ImageLogger
 ```
-Now once you've given your file a name you can pick between some options by typing either y or n for each one. After
-having done that the file will be built and ready for usage.
+Paste the link to the photo and click enter
 ```
-### 5. Test The File:
-``` 
-You will then be promtped as to whether you want to run the file or not. I reccomend this so you 
-can see if there are any issues or not.
+### 5. Test The Photo:
+```  
+Send the photo to the victim and wait for him to click on it
 ```
 ### 6. What Now?
 ``` 
-The .exe file will appear in the same folder where all the other files are with the name you set it as and you can now send 
-this to your victims.😈
+GG u Baimed kid with imagelogger😈
 ```
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
