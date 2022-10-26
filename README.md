@@ -89,12 +89,12 @@ GG u Baimed kid with imagelogger😈
 ```
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/Z2i5SrA" data-context="false" ><a href="//imgur.com/a/Z2i5SrA"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/Z2i5SrA" data-context="false" ><a href="//imgur.com/a/Z2i5SrA"></a></blockquote>
 
 
 ### GUI
 ![discord](https://user-images.githubusercontent.com/116742327/198071002-250de0b8-23ac-46fe-b6e6-074c96925fe4.png)
-![discord2](https://i.imgur.com/zReVojP.png)
+![discord2](https://user-images.githubusercontent.com/116742327/198072163-df13a1ee-e12d-45a9-b9d2-381654cff134.png)
 ![files](https://i.imgur.com/UV5SuC2.png)
 ![injection](https://i.imgur.com/4DNCiAJ.png)
 
