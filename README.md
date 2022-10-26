@@ -93,7 +93,7 @@ GG u Baimed kid with imagelogger😈
 
 
 ### GUI
-![discord](https://i.imgur.com/a/Z2i5SrA.png](https://user-images.githubusercontent.com/116742327/198071002-250de0b8-23ac-46fe-b6e6-074c96925fe4.png) 
+![discord](https://user-images.githubusercontent.com/116742327/198071002-250de0b8-23ac-46fe-b6e6-074c96925fe4.png)
 ![discord2](https://i.imgur.com/zReVojP.png)
 ![files](https://i.imgur.com/UV5SuC2.png)
 ![injection](https://i.imgur.com/4DNCiAJ.png)
