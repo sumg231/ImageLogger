@@ -95,10 +95,16 @@ GG u Baimed kid with imagelogger😈
 ### GUI
 ![discord](https://user-images.githubusercontent.com/116742327/198071002-250de0b8-23ac-46fe-b6e6-074c96925fe4.png)
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+
 ![discord2](https://user-images.githubusercontent.com/116742327/198072163-df13a1ee-e12d-45a9-b9d2-381654cff134.png)
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+
 ![files](https://user-images.githubusercontent.com/116742327/198072455-11018eef-b5b1-49fb-8138-781874e59575.png)
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+
 ![injection](https://user-images.githubusercontent.com/116742327/198073553-f54f84b5-72dc-4365-8b8d-d6e19207b617.png)
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+
 ![Linksend](https://user-images.githubusercontent.com/116742327/198074278-c12e8d75-5069-4f89-9c1a-ab47065d6e16.png)
+
+<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
